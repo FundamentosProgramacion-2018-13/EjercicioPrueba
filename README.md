@@ -13,3 +13,7 @@ Esta modificación fue hecha por el alumno:
 Alrededor de las 23 y media horas alcanzó el éxito. 
 
 Añado imagen de su reacción: 
+
+* ERROR 
+
+El sistema colapso al intentar subir la imagen. Se agregara un emoji: 🙌🏽
