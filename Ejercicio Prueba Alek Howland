@@ -1,0 +1,9 @@
+Análisis ejericio 1
+Lecturas de datos: a,b,c,d
+Ar=b*(a-d-c)
+Ati=d*b/2
+Atd=c*b/2
+Area=Ar+Ati+Atd+
+Costo=Area*3.450
+Imprimir Area
+Imprimir Costo
