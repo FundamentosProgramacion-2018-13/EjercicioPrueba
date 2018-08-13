@@ -1,0 +1,8 @@
+Análisis ejercicio 1
+leer a, b, c, d
+Ar = b*(a-d-c)
+Ati= (d*b)/2
+Atd= (c*b)/2
+Area= Ar + Ati + Atd
+costo = area*3450
+Imprimir area costo
