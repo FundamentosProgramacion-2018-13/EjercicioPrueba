@@ -1,7 +1,0 @@
-Recibir variables "a","b" y "c" y asignar sus valores a variables del mismo nombre
-Restar el valor de dos veces "c" a "a"
-Multiplicar su resultado por "b"
-Añadir al total el resultado.
-Multiplicar "c" por "b" y añadirlo al total
-Multiplicar por 3,450 el total
-Reportarlo al usuario

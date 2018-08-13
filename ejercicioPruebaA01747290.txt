@@ -1,0 +1,19 @@
+Analisis=
+Entrada: Base, altura, diferencia d y c de la base
+S:Area y costo
+E/S: area = ac+at1+at2
+ac = b*(a-c-d)
+at1 = b*d/2
+at2 = b*c/2
+costo = area*3450
+
+Algoritmo=
+Recibir variables "a", "b", "c" y "d" y asignar sus valores a variables del mismo nombre
+Restar el valor de "c" y "d" a "a"
+Multiplicar su resultado por "b"
+Añadir a variable "total" el resultado.
+Multiplicar "c" por "b" y añadirlo al total
+Multiplicar "d" por "b" y añadirlo al total
+Imprimir total // area
+Multiplicar por 3,450 el total
+Imprimir costo // costo
