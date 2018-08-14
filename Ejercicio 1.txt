@@ -1,0 +1,19 @@
+Analisis:
+
+E: a,b,c,d
+S: Area, Costo
+E/S: Area= Ta +r +td
+Ta= d*t/2, r= (a-b-c)*b
+Td= c*b/2 
+costo=Area*3,450
+
+
+Algoritmo:
+
+1. Leer a,b,c,d
+2. ta= d*b/2
+3. r= (a-b-c)*b
+4. Td= c*b/2 
+5. Area= Ta +r +Td
+6. costo=Area*3,450
+7. Imprimir Are, costo
