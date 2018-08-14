@@ -1,0 +1,33 @@
+Análisis:
+
+E: a, b, c, d
+
+S: area, costo
+
+E/S: ti + r + td
+
+ti = (d*b)/2, r = (a-d-c) b
+
+td = (c*b)/2
+
+costo = area * 3450
+
+
+Algoritmo:
+
+1. Leer a, b, c, d
+
+2. t, = (d*b)/2
+
+3. r = (a-d-c)*b
+
+4. td = (c*b)/2
+
+5. area = ti + r + td
+
+6. costo = area*3450
+
+7. imprimir area, costo
+	
+	fin del programa
+
