@@ -1,0 +1,18 @@
+Análisis:
+	Entradas: 
+		a, b, c y d medidas en metros
+	Salidas:
+		área y costo
+	Entradas/Salidas:
+		Área = ti + r + td
+		ti = 1/2d*b, r=(a-d-c)*b, td = 1/2c*b
+		Costo = área * 3450
+
+Algoritmo:
+	1.Leer a, b, c y d en metros
+	2.Ti = ½ d*b
+	3.R = (a-b-c) *b
+	4.Td= 1/2c*b
+	5.Área = Ti + R + Td
+	6.Costo = Área * 3450
+	7.Imprimir Área y Costo
