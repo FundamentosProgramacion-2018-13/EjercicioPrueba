@@ -1,0 +1,10 @@
+# Ejercicio 1
+a = int(input("Base del terreno trapezoidal: "))
+b = int(input("Altura del terreno: "))
+c = int(input("Base del triángulo derecho 3: "))
+d = int(input("Base del triángulo  izquierdo 4: "))
+CostoM = int(input("Ingrese el costo por metro cuadrado"))
+Area = b*a - (b*d/2 + b*c/2)
+CostoF = Area*CostoM
+print("El terreno tiene un Area de: ",Area)
+print("Con un costo de: ",CostoF)
